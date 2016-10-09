@@ -33,7 +33,8 @@ This repo contains a number of full-stack developer interview questions that can
   1. [Cryptography](#cryptography)
 
 ####[[⬆]](#toc) <a name='general'>General Questions:</a>
-* What is *polymorphism*? (Variable of type Shape could refer to an object of type Square, Circle... Ability of a function to handle objects of many types)
+* What is *polymorphism*? 
+ Polymorphism is an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms. A language that features polymorphism allows developers to program in the general rather than program in the specific.
 * What is *encapsulation* (Packing of data and functions into a single component)
 * What is *inversion of control*? (A design in which custom-written portions of a computer program receive the flow of control from a generic, reusable library)
 * What is tail recursion? (A tail call is a subroutine call performed as the final action of a procedure)
