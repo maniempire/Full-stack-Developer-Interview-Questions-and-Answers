@@ -46,6 +46,8 @@ This repo contains a number of full-stack developer interview questions that can
   
   Tail recursion is a special kind of recursion where the recursive call is the very last thing in the function. It's a function that does not do anything at all after recursing. (Refer here more details - https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
 * What is *virtual function*?
+
+  A virtual function is a member function that you expect to be redefined in derived classes. When you refer to a derived class object using a pointer or a reference to the base class, you can call a virtual function for that object and execute the derived class's version of the function. (Refer here more details - https://en.wikipedia.org/wiki/Virtual_function)
 * What is *virtual method table*?
 * What is *dynamic binding*?(Actual method implementation invoked is determined at run time based on the class of the object, not the type of the variable or expression)
 * How does *garbage collector* work? (Mark and sweep: mark: traverse object graph starting from root objects, sweep: garbage collect unmarked objects. Optimizations: young/old generations, incremental mark and sweep)
