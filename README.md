@@ -35,8 +35,8 @@ This repo contains a number of full-stack developer interview questions that can
 ####[[⬆]](#toc) <a name='general'>General Questions:</a>
 * What is *polymorphism*? 
  
- Polymorphism is an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms. A language that features polymorphism allows developers to program in the general rather than program in the specific.
-* What is *encapsulation*? (Refer here more details - https://www.techopedia.com/definition/28106/polymorphism-general-programming)
+ Polymorphism is an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms. A language that features polymorphism allows developers to program in the general rather than program in the specific.(Refer here more details - https://www.techopedia.com/definition/28106/polymorphism-general-programming)
+* What is *encapsulation*? 
 
  Encapsulation is an Object Oriented Programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse. Data encapsulation led to the important OOP concept of data hiding. (Refer here more details - https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
 * What is *inversion of control*? 
