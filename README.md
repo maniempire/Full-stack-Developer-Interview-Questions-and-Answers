@@ -36,7 +36,9 @@ This repo contains a number of full-stack developer interview questions that can
 * What is *polymorphism*? 
  
  Polymorphism is an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms. A language that features polymorphism allows developers to program in the general rather than program in the specific.
-* What is *encapsulation* (Packing of data and functions into a single component)
+* What is *encapsulation*?
+
+ Encapsulation is an Object Oriented Programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse. Data encapsulation led to the important OOP concept of data hiding.
 * What is *inversion of control*? (A design in which custom-written portions of a computer program receive the flow of control from a generic, reusable library)
 * What is tail recursion? (A tail call is a subroutine call performed as the final action of a procedure)
 * What is *virtual function*?
