@@ -41,7 +41,7 @@ This repo contains a number of full-stack developer interview questions that can
  Encapsulation is an Object Oriented Programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse. Data encapsulation led to the important OOP concept of data hiding.
 * What is *inversion of control*? 
   
-  A design in which custom-written portions of a computer program receive the flow of control from a generic, reusable library. Refer here more details - http://stackoverflow.com/questions/3058/what-is-inversion-of-control)
+  A design in which custom-written portions of a computer program receive the flow of control from a generic, reusable library. (Refer here more details - http://stackoverflow.com/questions/3058/what-is-inversion-of-control)
 * What is tail recursion? (A tail call is a subroutine call performed as the final action of a procedure)
 * What is *virtual function*?
 * What is *virtual method table*?
