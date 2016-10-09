@@ -42,7 +42,9 @@ This repo contains a number of full-stack developer interview questions that can
 * What is *inversion of control*? 
   
   A design in which custom-written portions of a computer program receive the flow of control from a generic, reusable library. (Refer here more details - http://stackoverflow.com/questions/3058/what-is-inversion-of-control)
-* What is tail recursion? (A tail call is a subroutine call performed as the final action of a procedure)
+* What is tail recursion? 
+  
+  Tail recursion is a special kind of recursion where the recursive call is the very last thing in the function. It's a function that does not do anything at all after recursing. (Refer here more details - https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
 * What is *virtual function*?
 * What is *virtual method table*?
 * What is *dynamic binding*?(Actual method implementation invoked is determined at run time based on the class of the object, not the type of the variable or expression)
